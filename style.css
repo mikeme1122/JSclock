@@ -34,8 +34,8 @@ background-size: cover;
   }
 .clockFace{
         color: whitesmoke;
-        width: 590px;
-        height: 590px;
+        width: 540px;
+        height: 540px;
         border: solid 15px;
         border-radius: 100%;
         position: fixed;
